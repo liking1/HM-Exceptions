@@ -1,0 +1,30 @@
+﻿  Reservoirs.cpp
+C:\Users\tlvla\source\repos\ConsoleApplication5\ConsoleApplication5\Reservoirs.cpp(84,20): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+C:\Users\tlvla\source\repos\ConsoleApplication5\ConsoleApplication5\Figure.h(30,19): warning C4244: '=': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tlvla\source\repos\ConsoleApplication5\ConsoleApplication5\Figure.h(61): message : see reference to function template instantiation 'void Triangle::setTriangle<T>(const T &,const T &,const T &)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\tlvla\source\repos\ConsoleApplication5\ConsoleApplication5\Source.cpp(10): message : see reference to function template instantiation 'Triangle::Triangle<int>(const T &,const T &,const T &)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\tlvla\source\repos\ConsoleApplication5\ConsoleApplication5\Figure.h(39,19): warning C4244: '=': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tlvla\source\repos\ConsoleApplication5\ConsoleApplication5\Figure.h(48,19): warning C4244: '=': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Generating Code...
+  ConsoleApplication5.vcxproj -> C:\Users\tlvla\source\repos\ConsoleApplication5\Debug\ConsoleApplication5.exe
